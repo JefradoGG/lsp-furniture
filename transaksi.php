@@ -153,4 +153,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </html>
 
 <!-- Tantangan -->
-<!-- Membuat diskon 3 dengan voucher juga -->
+<!-- Membuat diskon 3 dengan voucher juga dan pembayaran tidak boleh kurang dari total harga -->
